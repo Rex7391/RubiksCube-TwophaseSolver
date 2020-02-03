@@ -1,3 +1,4 @@
+Hey
 # RubiksCube-TwophaseSolver
 ## Overview 
 This project implements the two-phase-algorithm in its fully developed form to solve Rubik's cube in Python. Though Python is much slower than for example C++ or even Java the implementation is sufficiently fast to solve random cubes in less than 20 moves on average on slow hardware like the Raspberry Pi3 within a few seconds.
