@@ -17,3 +17,5 @@ If you run the script "computer_vision.py" you have the possibility to enter the
 
 You can find some more information how to set the parameters here:
 [Computer vision and Rubik's cube](http://kociemba.org/computervision.html)
+
+adrien
